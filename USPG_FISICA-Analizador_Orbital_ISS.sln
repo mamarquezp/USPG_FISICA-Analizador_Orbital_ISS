@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USPG_FISICA-Analizador_Orbital_ISS", "USPG_FISICA-Analizador_Orbital_ISS\USPG_FISICA-Analizador_Orbital_ISS.csproj", "{1562DDCC-1FF5-4115-A3A3-0AAB93DA31DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1562DDCC-1FF5-4115-A3A3-0AAB93DA31DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1562DDCC-1FF5-4115-A3A3-0AAB93DA31DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1562DDCC-1FF5-4115-A3A3-0AAB93DA31DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1562DDCC-1FF5-4115-A3A3-0AAB93DA31DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F7196F-377F-4611-8D10-43BD63838C1E}
+	EndGlobalSection
+EndGlobal
