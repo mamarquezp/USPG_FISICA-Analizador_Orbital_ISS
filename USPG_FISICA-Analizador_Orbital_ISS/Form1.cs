@@ -177,8 +177,7 @@ namespace USPG_FISICA_Analizador_Orbital_ISS
             // --- CARGA DE IMAGEN DESDE RECURSOS ---
             try
             {
-                // Aquí accedemos a la imagen que agregaste en Propiedades -> Recursos
-                // Si "MapaMundi" te sale subrayado en rojo, es que no completaste el Paso 2 arriba.
+                // Aquí accedemos a la imagen
                 picMap.Image = Properties.Resources.MapaMundi;
             }
             catch (Exception ex)
